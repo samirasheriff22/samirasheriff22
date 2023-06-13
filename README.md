@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm SAMIRA SHERIFF</h1>
-<h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
+<h3 align="center">Full of enthusiasm on creativity and inventiveness, a newbie trying to figure things out!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik242002&label=Profile%20views&color=0e75b6&style=flat" alt="sam" /> </p>
 <a href="#samirasheriff22-title">
