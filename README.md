@@ -3,17 +3,17 @@
 <h1 align="center">Hi 👋, I'm SAMIRA SHERIFF</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik242002&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
-<a href="#karthik242002-title">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik242002&label=Profile%20views&color=0e75b6&style=flat" alt="sam" /> </p>
+<a href="#samirasheriff22-title">
   <img src="https://github-readme-stats.vercel.app/api?username=karthik242002&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="karthik242002 S" align="right" />
 </a>
 
-- 👋 Hi, I’m @karthik242002
-- 👀 I’m interested to recreate the coding
-- 🌱 I’m currently learning B.E(CSE) in Jaya Engineering College
-- 💞️ I’m looking to collaborate with new things 
-- 📫 Reach me on karthiksiva153@gmail.com
-- 💻  Connect with me on https://www.linkedin.com/in/karthik-s-9a6121237/
+- 👋 Hi, I’m @samirasheriff22
+- 👀 I enjoy developing and enhancing code. 
+- 🌱 I’m currently pursuing B.E(CSE) in SA Engineering College
+- 💞️ I'd love to collaborate in developing creative projects
+- 📫 Reach me on samira03522@gmail.com
+- 💻 Connect with me on https://www.linkedin.com/in/samira-sheriff-08a89b221/
 
 <br>
 
