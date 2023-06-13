@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik242002&label=Profile%20views&color=0e75b6&style=flat" alt="sam" /> </p>
 <a href="#samirasheriff22-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik242002&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="samirasheriff" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samirasheriff&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="samirasheriff" align="right" />
 </a>
 
 - 👋 Hi, I’m @samirasheriff22
